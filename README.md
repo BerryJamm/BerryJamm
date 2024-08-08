@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BerryJamm
+- 👋 Hi, I’m Jamin @BerryJamm
 - 👀 I’m 17 and enjoy soccer, video games, and everything tech
 - 🌱 I’m currently learning to program and how to develop apps with the Flutter codebase
 - 💞️ I’m figuring how to enter the field of programming and engineering
